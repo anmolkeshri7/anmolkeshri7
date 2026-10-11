@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <!-- NAME AND INTRODUCTION -->
@@ -10,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Ideas+Into+Reality;Full-Stack+Web+Developer;Python+%7C+Flask+%7C+MySQL;Cricket+%26+Technology+Enthusiast;Future+Entrepreneur"
        alt="Animated Typing Text" />
 
-  <br/><br/>
+  <br/>
 
   <!-- PROFILE VIEWS AND FOLLOWERS: HORIZONTAL ROW -->
   <a href="https://github.com/anmolkeshri7">
@@ -23,7 +22,7 @@
          alt="GitHub Followers"/>
   </a>
 
-  <br/><br/>
+  <hr/>
 
   <!-- SOCIAL LINKS -->
   <a href="https://github.com/anmolkeshri7">
